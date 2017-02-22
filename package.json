@@ -1,0 +1,26 @@
+{
+  "name": "column-widths",
+  "version": "1.0.2",
+  "description": "Calculate \"perfect\" table column widths in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safetychanger/column-widths.js.git"
+  },
+  "keywords": [
+    "grid",
+    "table",
+    "columns",
+    "width",
+    "calculate"
+  ],
+  "author": "Ruben Stolk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/safetychanger/column-widths.js/issues"
+  },
+  "homepage": "https://github.com/safetychanger/column-widths.js#readme"
+}
