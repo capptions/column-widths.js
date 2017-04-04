@@ -67,10 +67,10 @@ module.exports = (rows, minPercentage = 10) => {
       }
 
       return shouldSteal;
-    }).pop();
+    }).reverse()[0];
 
     if (!stealColumn) {
-      stealColumn = columns.sort((a, b) => a.percentage - b.percentage).pop();
+      stealColumn = columns.sort((a, b) => a.percentage - b.percentage).reverse()[0];
     }
 
     stealColumn.percentage -= short;
