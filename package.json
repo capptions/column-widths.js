@@ -1,6 +1,6 @@
 {
   "name": "column-widths",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Calculate \"perfect\" table column widths in javascript",
   "main": "index.js",
   "scripts": {
